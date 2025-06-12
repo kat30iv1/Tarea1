@@ -10,7 +10,7 @@ int a = 0, b = 1, c, n = 15;
     b = c;
   }
 
-  print("Sucesión de Fibonacci:");
+  print("Sucesión de Fibonacci: ");
   for (int num in fibonacci) {
     print(num);
   }
